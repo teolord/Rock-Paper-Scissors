@@ -15,5 +15,5 @@
 
 ## Udělejte podmínky pro všechny možnosti, příklad s kamenem:
 ### Pokud vygenerované číslo je 0 a uživatel naspal #, tak napsat "Znovu! Počítač použil kámen", protože kámen a kámen neplatí.
-Pokud vygenerované číslo je 1 a uživatel napsal #, tak napsat "Vyhrál jsi! Počítač použil nůžky", protože kámen na nůžky je výhra
-Pokud vygenerované číslo je 2 a uživatel napsal #, tak napsat "Prohrál jsi! Počítač použil papír", protože kámen na nůžky je prohra
+### Pokud vygenerované číslo je 1 a uživatel napsal #, tak napsat "Vyhrál jsi! Počítač použil nůžky", protože kámen na nůžky je výhra
+### Pokud vygenerované číslo je 2 a uživatel napsal #, tak napsat "Prohrál jsi! Počítač použil papír", protože kámen na nůžky je prohra
