@@ -1,6 +1,6 @@
-### Kamen-Nuzky-Papir
+# Kamen-Nuzky-Papir
 
-### test na programování v C#
+# test na programování v C#
 
 ## zadání: 
 
