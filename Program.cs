@@ -17,24 +17,24 @@ namespace Program
                 Console.WriteLine("V = Scissors");
                 Console.WriteLine("- = paper");
 
-                Console.Write("Zadej znak: ");
+                Console.Write("Enter symbol: ");
                 char t = Char.Parse(Console.ReadLine());
 
                 if (t == '#')
                 {
                     if (cislo == 0)
                     {
-                        Console.WriteLine("Remíza počitač použil kámen");
+                        Console.WriteLine("Draw computer used a stone");
                     }
 
                     else if (cislo == 1)
                     {
-                        Console.WriteLine("Vyhral jsi počítač použil nůžky");
+                        Console.WriteLine("You won computer used scissors");
                     }
 
                     else
                     {
-                        Console.WriteLine("Prohrál jsi počítač použil papír");
+                        Console.WriteLine("You lost computer used paper");
                     }
                 }
 
@@ -42,17 +42,17 @@ namespace Program
                 {
                     if (cislo == 0)
                     {
-                        Console.WriteLine("Prohral jsi pocitac pouzil kamen");
+                        Console.WriteLine("You lost computer used rock");
                     }
 
                     else if (cislo == 1)
                     {
-                        Console.WriteLine("Remizoval jsi počítač použil nůžky");
+                        Console.WriteLine("Draw computer used scissors");
                     }
 
                     else
                     {
-                        Console.WriteLine("Vyhral jsi počítač použil papír");
+                        Console.WriteLine("You won computer used paper");
                     }
                 }
 
@@ -60,17 +60,17 @@ namespace Program
                 {
                     if (cislo == 0)
                     {
-                        Console.WriteLine("Vyhral jsi počitač použil kámen");
+                        Console.WriteLine("You won computer used rock");
                     }
 
                     else if (cislo == 1)
                     {
-                        Console.WriteLine("Prohral jsi počítač použil nůžky");
+                        Console.WriteLine("You lost computer used rock scissors");
                     }
 
                     else
                     {
-                        Console.WriteLine("Remiza počítač použil papír");
+                        Console.WriteLine("Draw computer used paper");
                     }
                 }
             }
