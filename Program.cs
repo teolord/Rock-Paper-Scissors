@@ -13,9 +13,9 @@ namespace Program
             {
                 int cislo = r.Next(0, 3);
 
-                Console.WriteLine("0 je kamen");
-                Console.WriteLine("V jsou nůžky");
-                Console.WriteLine("- je papír");
+                Console.WriteLine("0 = rock");
+                Console.WriteLine("V = Scissors");
+                Console.WriteLine("- = paper");
 
                 Console.Write("Zadej znak: ");
                 char t = Char.Parse(Console.ReadLine());
