@@ -1,5 +1,4 @@
-# Kamen-Nuzky-Papir
-# test na programování v C#
+# Rock Paper Scissors
 # zadání: 
 ### Vygeneruj náhodné číslo od 0 do 2.
 
